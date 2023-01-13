@@ -33,7 +33,7 @@
 
 ## 三、环境介绍
 
-基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7及以上,Node.js,Maven
+基础环境 :IDEA/eclipse, JDK 1.8, Mysql5.7及以上,Maven
 
 所有项目以及源代码本人均调试运行无问题 可支持远程调试运行
 

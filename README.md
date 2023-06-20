@@ -4,11 +4,11 @@
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128658542](https://blog.csdn.net/2303_76227485/article/details/128658542)**
 
-**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+**视频演示：[https://www.bilibili.com/video/BV1ZW4y1S7dZ/](https://www.bilibili.com/video/BV1ZW4y1S7dZ/)**
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于SpringBoot宿舍管理系统(源代码+数据库+6000字文档)
+## 基于SpringBoot宿舍管理系统(源代码+数据库+7700字文档)
 
 ## 一、系统介绍
 
